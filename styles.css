@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-image: url("coracao.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    font-size: 24px;
+    color: #0056b3;
+}
+#datetime {
+    font-size: 20px;
+    color: crimson;
+
+    padding: 10px;
+    border-radius: 5px;
+    display:inline-block;
+    margin: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
